@@ -1,0 +1,11 @@
+				@font-face {
+					font-family: 'sailor-jerry';
+					src: url('/wp-content/uploads/useanyfont/2724Sailor-Jerry.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/2724Sailor-Jerry.woff') format('woff');
+				}
+
+				.sailor-jerry{font-family: 'sailor-jerry' !important;}
+
+				.et_gf_sailor-jerry{background:none !important;font-family:sailor-jerry;text-indent:0 !important;font-size:25px;}
+
+		
